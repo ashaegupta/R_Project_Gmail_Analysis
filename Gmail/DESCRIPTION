@@ -1,0 +1,11 @@
+Package: Gmail
+Type: Package
+Title: Fetch and run analysis on gmail emails 
+Version: 0.1
+Date: 2011-03-15
+Author: Asha Gupta
+Maintainer: <ashaegupta@gmail.com>
+Description: Fetches emails, stores in data frame, provides basic statistical analysis and visuals of email behavior
+License: MIT
+LazyLoad: yes
+Packaged: 2011-03-16 07:08:05 UTC; aegupta
