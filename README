@@ -1,0 +1,12 @@
+This is a R package that allows you to easily conduct analysis on your email.
+
+In order to use this R package, you also need to run a python script to extract your email and store data as a .csv file.
+The data can then be retreived by the R package to run analysis. 
+
+The primary use of this package is for gmail analysis between you and one other person, although code can be easily
+manipulated to include analysis with others as well (this would be done in the python code).
+
+Some highlight functions included in the R package are:
+ -- analysis and graphing of emails sent by time of day
+ -- analysis and graphing of email reply times by time of day
+ -- analysis and visual word cloud of most common words in subject lines
