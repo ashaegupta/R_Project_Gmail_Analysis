@@ -1,4 +1,4 @@
-This is a R package that allows you to easily conduct analysis on your email.
+This is an R package that allows you to easily conduct analysis on your email.
 
 In order to use this R package, you also need to run a python script to extract your email and store data as a .csv file.
 The data can then be retreived by the R package to run analysis. 
